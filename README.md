@@ -10,7 +10,7 @@
 
 ## **Assignment 1**:
 
-**Due Date** Except when explicitly stated the assignment is due Tuesday Jan 26th 2016
+**Due Date** Except when explicitly stated the assignment is due Thursday Jan 28th 2016
 
 1. **_Due Thurs Jan 21st 2016_** Register as a student participant for the NASA Swarmathon competition [here](http://nasaswarmathon.com/student-registration-form/). Forward the registration email to Li Huang.
 1. **_Due Thurs Jan 21st 2016_** Sign up for a github account, email username to Li Huang.
